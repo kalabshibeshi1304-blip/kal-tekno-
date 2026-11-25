@@ -1,0 +1,6 @@
+{
+  "name": "Zema Hospitality Operations Suite",
+  "description": "Full-stack bilingual hotel management system with Reception & Manual Payment, Housekeeping, Maintenance, Manager Audit & Financial Reports, and Voice Alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
